@@ -9,7 +9,7 @@
         <h1>About Me</h1>
     </header>
     <div class="content">
-        <img src="https://via.placeholder.com/150" alt="Profile Picture">
+        <h1>Elegance.. Very elegant.
         <h2>Hi, I'm Mohammad!</h2>
         <p>
             I'm a 10th-grade student passionate about technology, programming, and creative projects. 
